@@ -6,7 +6,7 @@ sidebar_position: 1
 
 # How to Create a New Organisation
 
-* [Ensure you're logged in](data-platform/intro/how_to_sign_up)
+* [Ensure you're logged in](/data-platform/intro/how_to_sign_up)
 * Navigate to the Organisations page, [data.afra.org.nz/organisations](https://data.afra.org.nz/organisations)
 * Click the “Create New Organisation” button.
 * Fill in the required details, such as:

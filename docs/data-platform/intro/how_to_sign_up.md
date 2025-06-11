@@ -9,7 +9,7 @@ Getting started is simple and broken into three key steps:
 
 ## 🧑‍💻 1. Logging In
 
-1. Visit 👉 [data.afra.org.nz](data.afra.org.nz)
+1. Visit 👉 [data.afra.org.nz](https://data.afra.org.nz)
 
 2. Click “Sign in with Email” or “Sign in with Google”
 
@@ -43,5 +43,5 @@ If your organisation is not yet on the platform:
 * This process is handled for you by the AFRA team.
 * Coordinate with the AFRA Data Lead for next steps.
 * Learn more about the import process:
-> 👉 [Importing Existing Data Guide](data-platform/intro/submitting_your_data)
+> 👉 [Importing Existing Data Guide](/data-platform/intro/submitting_your_data)
 

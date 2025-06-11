@@ -48,7 +48,7 @@ Adding Transaction data is how you log food that you have received, distributed 
 
 This is the organisation the food is coming from or going to
 
-👉 [See how to add an organisation](data-platform/organisations/creating-organisations)
+👉 [See how to add an organisation](/data-platform/organisations/creating-organisations)
 
 #### Adjust the Date (if needed)
 

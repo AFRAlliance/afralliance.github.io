@@ -10,7 +10,7 @@ What would you like to do today? Select the task that best fits your needs to ge
 
 ## ✅ Getting Started Tasks
 
-I want to sign-up to the data platform 👉 [Go here](/docs/data-platform/intro/how_to_sign_up)
+I want to sign-up to the data platform 👉 [Go here](data-platform/intro/how_to_sign_up)
 
 I want to enter transaction data 👉 Go here
 

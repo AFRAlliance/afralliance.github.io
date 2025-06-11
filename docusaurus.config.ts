@@ -15,15 +15,15 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://data.afra.org.nz/docs',
+  url: 'https://afralliance.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Aotearoa Food Rescue Alliance', // Usually your GitHub org/user name.
-  projectName: 'resiyrce_hub', // Usually your repo name.
+  organizationName: 'afralliance', // Usually your GitHub org/user name.
+  projectName: 'afralliance.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -41,19 +41,10 @@ const config: Config = {
       'classic',
       {
         docs: {
+          routeBasePath: '/',
           sidebarPath: './sidebars.ts',
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -70,12 +61,6 @@ const config: Config = {
         alt: 'Aotearoa Food Rescue Alliance Logo',
         src: 'img/AFRA Logo Black White w Green.png',
       },
-      items: [
-        {
-              label: 'Data Platform Docs',
-              to: '/docs/data-platform/intro',  // Adjust to your dataPlatformSidebar root doc
-        },
-      ],
     },
     footer: {
       style: 'dark',
@@ -100,10 +85,6 @@ const config: Config = {
         {
           title: 'More',
           items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
             {
               label: 'AFRA Website',
               href: 'https://afra.org.nz',

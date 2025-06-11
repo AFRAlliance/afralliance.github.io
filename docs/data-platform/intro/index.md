@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
-title: Data Platform
+title: 👋 Welcome
+slug: /
 ---
 
 # Welcome to the Data Platform guide

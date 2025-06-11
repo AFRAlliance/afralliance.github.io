@@ -1,10 +1,10 @@
 ---
-id: intro
-title: 🗺️ Feedback & Roadmap
-sidebar_position: 6
+id: feedback
+title: Feedback
+sidebar_position: 1
 ---
 
-# Feedback & Roadmap
+# Feedback
 We love feedback and appreciate anything that you would like to share.
 
 Day to day feedback on things such as feature suggestions, and bug reports can be submitted to our Data Lead, Quinn Moffat via quinn@afra.org.nz

@@ -1,6 +1,6 @@
 ---
 id: intro
-title: Transactions
+title: 📦 Transactions
 sidebar_position: 2
 ---
 

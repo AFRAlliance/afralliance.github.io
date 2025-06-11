@@ -10,11 +10,11 @@ What would you like to do today? Select the task that best fits your needs to ge
 
 ## ✅ Getting Started Tasks
 
-I want to sign-up to the data platform 👉 [Go here](data-platform/intro/how_to_sign_up)
+👉 [I want to sign-up to the data platform](data-platform/intro/how_to_sign_up)
 
-I want to enter transaction data 👉 Go here
+👉 [I want to enter transaction data](data-platform/transactions/entering_transactions)
 
-I want to import my existing data 👉 Go here
+👉 [I want to import my existing data](data-platform/intro/submitting_your_data)
 
 
 
@@ -23,22 +23,18 @@ I want to import my existing data 👉 Go here
 Explore our Dashboards and Reports to gain insights and make informed decisions.
 Dive into preset dashboards or export your data for deeper analysis.
 
-👉 Learn more about Data Analysis
+👉 [Learn more about Data Analysis](category/data-analysis)
 
 ## 🎨 Customisation
 
 Tailor the AFRA Data Platform to suit your organisation’s needs:
 
 
-I want to add an organisation
-👉 Go here
+👉 [I want to add an organisation](data-platform/organisations/creating-organisations)
 
-
-
-I want to customise my space’s data
-👉 Go here
+👉 [I want to customise my space’s data](http://localhost:3000/data-platform/customisation/)
 
 ## 💬 Feedback & Support
 
-I want to provide feedback?! 👉 Go here
+👉 [I want to provide feedback?!](http://localhost:3000/data-platform/feedback_roadmap)
 

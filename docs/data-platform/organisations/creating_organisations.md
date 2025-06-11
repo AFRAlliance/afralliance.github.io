@@ -1,8 +1,9 @@
 ---
-id: intro
+id: creating-organisations
 title: Creating Organisations
-sidebar_position: 2
+sidebar_position: 1
 ---
+
 # How to Create a New Organisation
 
 * Navigate to the Organisations page.

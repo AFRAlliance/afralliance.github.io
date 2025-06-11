@@ -1,5 +1,6 @@
 ---
 sidebar_position: 6
+title: 🗺️ Feedback & Roadmap
 ---
 # Feedback & Roadmap
 We love feedback and appreciate anything that you would like to share.

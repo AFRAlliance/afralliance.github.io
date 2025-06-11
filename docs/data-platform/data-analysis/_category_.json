@@ -3,6 +3,6 @@
   "position": 4,
   "link": {
     "type": "generated-index",
-    "description": "All about data analysis."
+        "description": "Welcome to the Data Analysis section of our platform! Here, we provide comprehensive guidance on how to utilize our platform’s powerful data analysis tools. Whether you're working with complex datasets, building real-time dashboards, or generating insightful reports, this section will walk you through everything you need to know. Our tutorials cover everything from basic data ingestion to advanced visualizations and reporting features, helping you make data-driven decisions effortlessly."
   }
 }

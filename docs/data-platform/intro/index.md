@@ -36,5 +36,5 @@ Tailor the AFRA Data Platform to suit your organisation’s needs:
 
 ## 💬 Feedback & Support
 
-👉 [I want to provide feedback?!](/data-platform/feedback_roadmap)
+👉 [I want to provide feedback?!](/data-platform/feedback_roadmap/feedback)
 

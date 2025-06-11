@@ -23,7 +23,7 @@ What would you like to do today? Select the task that best fits your needs to ge
 Explore our Dashboards and Reports to gain insights and make informed decisions.
 Dive into preset dashboards or export your data for deeper analysis.
 
-👉 [Learn more about Data Analysis](/category/data-analysis)
+👉 [Learn more about Data Analysis](/category/-data-analysis)
 
 ## 🎨 Customisation
 

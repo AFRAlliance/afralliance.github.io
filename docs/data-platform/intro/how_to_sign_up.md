@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+id: how_to_sign_up
 ---
 
 # How to Sign Up

@@ -27,6 +27,6 @@ Export clean, formatted summaries for easy sharing or printing.
 
 ---
 
-### 🚧 Coming Soon
+## Pivot Table Reports
 
-A **pivot table creator** will enable advanced data slicing and dicing—right within the platform.
+The PivotTable reports build 
